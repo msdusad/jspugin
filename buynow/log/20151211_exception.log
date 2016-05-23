@@ -1,0 +1,10 @@
+*ERROR* 	2015/12/11 - 05:14:27: Current theme unavailable &quot;default-bootstrap&quot;. Please check your theme directory name and permissions. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2015/12/11 - 05:14:28: Current theme unavailable &quot;default-bootstrap&quot;. Please check your theme directory name and permissions. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2015/12/11 - 05:14:53: Current theme unavailable &quot;default-bootstrap&quot;. Please check your theme directory name and permissions. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2015/12/11 - 05:14:53: Current theme unavailable &quot;default-bootstrap&quot;. Please check your theme directory name and permissions. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2015/12/11 - 05:15:20: Current theme unavailable &quot;default-bootstrap&quot;. Please check your theme directory name and permissions. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2015/12/11 - 05:15:21: Current theme unavailable &quot;default-bootstrap&quot;. Please check your theme directory name and permissions. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2015/12/11 - 05:16:16: Current theme unavailable &quot;default-bootstrap&quot;. Please check your theme directory name and permissions. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2015/12/11 - 05:16:16: Current theme unavailable &quot;default-bootstrap&quot;. Please check your theme directory name and permissions. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2015/12/11 - 06:56:37: Method of module cannot be found at line 856 in file controllers/admin/AdminModulesController.php
+*ERROR* 	2015/12/11 - 06:56:46: Method of module cannot be found at line 856 in file controllers/admin/AdminModulesController.php
